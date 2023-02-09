@@ -1,2 +1,2 @@
-# cts-documentation
-Documentation to support the Core Trust Sea; of the Meertens Repository
+# MI-CTS-documentation
+Documentation to support the Core Trust Seal of the Meertens Repository
