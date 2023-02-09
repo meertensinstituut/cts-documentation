@@ -1,1 +1,1 @@
-+ [TLA-FLAT](TLA-FLAT.md) the basis of the repository
++ [TLA-FLAT](TLA-FLAT.md) forms the basis of the repository
